@@ -3,9 +3,8 @@
 ## Blake
 ### API
 
- - `import skyhash_blake/blake2b` for blake2b.
- - `import skyhash_blake/blake2s` for blake2s.
- - `import skyhash_blake` for everything.
+ - `import skyhash/blake2b` for blake2b.
+ - `import skyhash/blake2s` for blake2s.
 
 #### One-shot
 ```nim
