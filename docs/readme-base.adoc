@@ -11,8 +11,9 @@ For end users:
 
 For people hacking on skyhash:
 
- - https://git.sr.ht/~skrylar/skbintext[skbintext]. For converting hashes
-to hexadecimal outputs.
+ - Plan 9 compatible `mk`.
+ - Perl's `prove`.
+ - https://github.com/Skrylar/skbintext[skbintext]. For converting hashes to hexadecimal outputs.
 
 == License
 
@@ -27,4 +28,3 @@ include::blake.adoc[]
 
 include::xxhash.adoc[]
 
-include::spooky.adoc[]
